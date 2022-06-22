@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        navView.setBackgroundColor(resources.getColor(R.color.drawercolor))
+        navView.setBackgroundColor(resources.getColor(R.color.hymn_bg))
 
     }
 
